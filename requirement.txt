@@ -4,3 +4,4 @@ sentencepiece
 einops
 accelerate
 tiktoken
+lmdeploy
